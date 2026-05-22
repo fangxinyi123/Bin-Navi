@@ -17,8 +17,8 @@
     "d1_databases": [
         {
             "binding": "DB",
-            "database_name": "navigation-db-local",
-            "database_id": "43ff28e1-42d6-4e53-9657-0702ae1353b6"
+            "database_name": "fang",
+            "database_id": "97cafaa5-8a15-43c2-b5cd-e440e2aeb500"
         }
     ],
     "vars": {
